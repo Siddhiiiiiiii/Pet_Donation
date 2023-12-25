@@ -1,7 +1,7 @@
 // Navbar.js
 
 import React from 'react';
-import './Navbar.css'; // You can create a separate CSS file for styling
+import '../CSS/Navbar.css'; 
 
 const Navbar = () => {
   return (
@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="logo">
         {/* Replace 'your_logo.png' with the path to your logo image */}
         <img src="https://www.pawsmetics.com/wp-content/uploads/2017/08/donation-graphic.jpg" alt="Logo" />
-        <span> PET DONATION WEBSITE </span>
+        <span> WE PET</span>
       </div>
       <div className="nav-links">
         <a href="/">Home</a>

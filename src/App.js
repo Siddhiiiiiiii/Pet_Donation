@@ -1,11 +1,12 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 
-import Home from './Home';
-import Navbar from './Navbar';
-import Contact from './Contact';
-import About from './About';
-import Services from './Services';
+import Home from './Pages/Home';
+import Navbar from './Pages/Navbar';
+import Contact from './Pages/Contact';
+import About from './Pages/About';
+import Services from './Pages/Services';
+import Footer from './Pages/Footer';
 
 
 function App() {
@@ -23,7 +24,7 @@ function App() {
 
         
         </Routes>
-     
+     <Footer/>
     </div>
     </Router>
   );
