@@ -4,6 +4,7 @@ import React from 'react';
 import '../CSS/Home.css';
 import petty from '../images/petty.png';
 import works from '../images/works.png';
+import Statistics from './Statistics';
 
 const Home = () => {
   return (
@@ -19,6 +20,8 @@ const Home = () => {
       alt="how it works"
       />
       </div>
+       
+       <Statistics />
 
       <div className="button-container">
         <button className="pet-button"> Dogs </button>
