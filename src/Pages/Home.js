@@ -5,6 +5,7 @@ import '../CSS/Home.css';
 import petty from '../images/petty.png';
 import works from '../images/works.png';
 import Statistics from './Statistics';
+import AdoptionForm from './AdoptionForm';
 
 const Home = () => {
   return (
@@ -30,7 +31,7 @@ const Home = () => {
         <button className="pet-button"> Fish </button>
         <button className="pet-button"> Rabbits </button>
       </div>
-
+      <AdoptionForm />
     </div>
   );
 };
