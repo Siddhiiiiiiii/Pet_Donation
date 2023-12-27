@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Pet_Donation/static/css/main.3097a6cf.css",
-    "main.js": "/Pet_Donation/static/js/main.83475cee.js",
+    "main.js": "/Pet_Donation/static/js/main.802ea2ed.js",
     "static/js/787.d6c71b42.chunk.js": "/Pet_Donation/static/js/787.d6c71b42.chunk.js",
     "static/media/petty.png": "/Pet_Donation/static/media/petty.7d80a2d03c7715a3a3b6.png",
     "static/media/works.png": "/Pet_Donation/static/media/works.061c1fbd8dcbabe05bb6.png",
     "index.html": "/Pet_Donation/index.html",
     "main.3097a6cf.css.map": "/Pet_Donation/static/css/main.3097a6cf.css.map",
-    "main.83475cee.js.map": "/Pet_Donation/static/js/main.83475cee.js.map",
+    "main.802ea2ed.js.map": "/Pet_Donation/static/js/main.802ea2ed.js.map",
     "787.d6c71b42.chunk.js.map": "/Pet_Donation/static/js/787.d6c71b42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3097a6cf.css",
-    "static/js/main.83475cee.js"
+    "static/js/main.802ea2ed.js"
   ]
 }
