@@ -15,12 +15,12 @@ function App() {
     <div className="App">
       <Navbar/>
 
-      <Routes> 
+      <Routes basename="/Pet_Donation"> 
         
         <Route path="/Pet_Donation" element={<Home />} />
-        <Route path="/Pet_Donation/Contact" element={<Contact />} />
-        <Route path="/Pet_Donation/About" element={<About />} />
-        <Route path="/Pet_Donation/Services" element={<Services />} />
+        <Route path="/Contact" element={<Contact />} />
+        <Route path="/About" element={<About />} />
+        <Route path="/Services" element={<Services />} />
 
         
         </Routes>
