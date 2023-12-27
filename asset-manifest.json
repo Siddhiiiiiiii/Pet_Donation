@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3097a6cf.css",
-    "main.js": "/static/js/main.67a75957.js",
-    "static/js/787.d6c71b42.chunk.js": "/static/js/787.d6c71b42.chunk.js",
-    "static/media/petty.png": "/static/media/petty.7d80a2d03c7715a3a3b6.png",
-    "static/media/works.png": "/static/media/works.061c1fbd8dcbabe05bb6.png",
-    "index.html": "/index.html",
-    "main.3097a6cf.css.map": "/static/css/main.3097a6cf.css.map",
-    "main.67a75957.js.map": "/static/js/main.67a75957.js.map",
-    "787.d6c71b42.chunk.js.map": "/static/js/787.d6c71b42.chunk.js.map"
+    "main.css": "/Pet_Donation/static/css/main.3097a6cf.css",
+    "main.js": "/Pet_Donation/static/js/main.83475cee.js",
+    "static/js/787.d6c71b42.chunk.js": "/Pet_Donation/static/js/787.d6c71b42.chunk.js",
+    "static/media/petty.png": "/Pet_Donation/static/media/petty.7d80a2d03c7715a3a3b6.png",
+    "static/media/works.png": "/Pet_Donation/static/media/works.061c1fbd8dcbabe05bb6.png",
+    "index.html": "/Pet_Donation/index.html",
+    "main.3097a6cf.css.map": "/Pet_Donation/static/css/main.3097a6cf.css.map",
+    "main.83475cee.js.map": "/Pet_Donation/static/js/main.83475cee.js.map",
+    "787.d6c71b42.chunk.js.map": "/Pet_Donation/static/js/787.d6c71b42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3097a6cf.css",
-    "static/js/main.67a75957.js"
+    "static/js/main.83475cee.js"
   ]
 }
