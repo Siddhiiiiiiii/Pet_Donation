@@ -12,7 +12,7 @@ const Navbar = () => {
         <span> WE PET</span>
       </div>
       <div className="nav-links">
-        <a href="/">Home</a>
+        <a href="/Pet_Donation">Home</a>
         <a href="/About">About</a>
         <a href="/Contact">Contact</a>
         <a href="/Services">Services</a>
