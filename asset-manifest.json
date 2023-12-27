@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Pet-Donation/static/css/main.3097a6cf.css",
+    "main.js": "/Pet-Donation/static/js/main.37060130.js",
+    "static/js/787.d6c71b42.chunk.js": "/Pet-Donation/static/js/787.d6c71b42.chunk.js",
+    "static/media/petty.png": "/Pet-Donation/static/media/petty.7d80a2d03c7715a3a3b6.png",
+    "static/media/works.png": "/Pet-Donation/static/media/works.061c1fbd8dcbabe05bb6.png",
+    "index.html": "/Pet-Donation/index.html",
+    "main.3097a6cf.css.map": "/Pet-Donation/static/css/main.3097a6cf.css.map",
+    "main.37060130.js.map": "/Pet-Donation/static/js/main.37060130.js.map",
+    "787.d6c71b42.chunk.js.map": "/Pet-Donation/static/js/787.d6c71b42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3097a6cf.css",
+    "static/js/main.37060130.js"
+  ]
+}
